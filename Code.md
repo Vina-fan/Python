@@ -1,9 +1,5 @@
 # Python from Scratch
 
-## Installing Python
-
-On Linux machine, Python is usually installed by default. To install Python on other systems, check out the [Python Setup and Usage section in Python help documentation](https://docs.python.org/2.7/using/index.html).
-
 ## Using Python
 
 The Python interpreter is usually installed as `/usr/bin/python` on those machines where it is available.
@@ -36,17 +32,6 @@ chmod +x hello.py
 ./hello.py
 ```
 
-### Using IPython shell
-
-IPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history. IPython provides the following features:
-
-- Interactive shells (terminal and Qt-based).
-- A browser-based notebook with support for code, text, mathematical expressions, inline plots and other media.
-- Support for interactive data visualization and use of GUI toolkits.
-- Flexible, embeddable interpreters to load into one's own projects.
-- Tools for parallel computing.
-
-
 To start iPython interactive environment, type `ipython` in your terminal.
 
 ## Getting help
@@ -54,11 +39,3 @@ To start iPython interactive environment, type `ipython` in your terminal.
 - Help is available in IPython sessions using `help( function )` . 
 
 - Some functions (and modules) have very longhelp files. When using IPython, these can be paged using the command `? function` or `function ?` so that the text can be scrolled using page up and down and `q` to `quit`. `??function` or `function??` can be used to type the entire function including both the docstring and the code.
-
-
-## Text Editors/IDE
-
-To edit Python code, you just need a handy text editor. There are many available, check out the following pages 
-
-- [Python Wiki](https://wiki.python.org/moin/PythonEditors)
-- [Comparison_of_text_editors in Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_text_editors)
