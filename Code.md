@@ -55,20 +55,6 @@ To start iPython interactive environment, type `ipython` in your terminal.
 
 - Some functions (and modules) have very longhelp files. When using IPython, these can be paged using the command `? function` or `function ?` so that the text can be scrolled using page up and down and `q` to `quit`. `??function` or `function??` can be used to type the entire function including both the docstring and the code.
 
-## Libraries
-
-Python has a large standard library, commonly cited as one of Python's greatest strengths, providing tools suited to many tasks. This is deliberate and has been described as a "batteries included" Python philosophy. For Internet-facing applications, a large number of standard formats and protocols (such as MIME and HTTP) are supported. Modules for creating graphical user interfaces, connecting to relational databases, pseudorandom number generators, arithmetic with arbitrary precision decimals,[69] manipulating regular expressions, and doing unit testing are also included.
-
-Some parts of the standard library are covered by specifications, but the majority of the modules are not. They are specified by their code, internal documentation, and test suite (if supplied). However, because most of the standard library is cross-platform Python code, there are only a few modules that must be altered or completely rewritten by alternative implementations.
-
-The standard library is not essential to run Python or embed Python within an application. Blender 2.49, for instance, omits most of the standard library.
-
-As of August 2015, the Python Package Index, the official repository of third-party software for Python, contains more than 65,000 packages offering a wide range of functionality, including:
-
-- graphical user interfaces, web frameworks, multimedia, databases, networking and communications
-- test frameworks, automation and web scraping, documentation tools, system administration
-- scientific computing, text processing, image processing
-
 
 ## Text Editors/IDE
 
