@@ -1,2 +1,2 @@
-# Python_by-Vina
-These are some codes about Python.
+# Python
+These are some codes about Python learnt by Vina.
